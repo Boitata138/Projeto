@@ -1,6 +1,6 @@
 Calculo para consumo de aparelhos eletricos. ![Consumo de Energia](https://shields.io)
 
-Utilizei a linguagem ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
+Utilizei a linguagem ![PyPI Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 O objetivo é calcular o consumo mensal de qual quer aparelho eletrico atraves da formula "consumoMensal = (potencia * horasDia * 30) / 1000" 
 e o gasto  "valor_consumo = consumo_mensal * 0.75".
 
