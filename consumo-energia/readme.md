@@ -1,4 +1,4 @@
-Calculo para consumo de aparelhos eletricos⚡.
+# Calculo para consumo de aparelhos eletricos⚡.
 
 Utilizei a linguagem ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
